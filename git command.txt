@@ -1,2 +1,21 @@
 git init
 git status
+touch .gitignore
+git add -A
+git add git command.txt
+git reset git command.txt
+git reset #for all
+git commit -m "initial commit"
+git log
+git clone <url> <where to clone>
+#viewing info about remote repo
+git remote -v
+git branch -a
+
+git diff
+git status
+git add -A
+git commit -m "    "
+
+git pull origin master
+git push origin master
